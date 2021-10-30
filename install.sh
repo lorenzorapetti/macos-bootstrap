@@ -33,6 +33,9 @@ fi
 # Install all the things
 brew bundle --file="$DOTFILES_PATH/mac/Brewfile"
 
+# Clone my dotfiles in the home directory
+git clone https://github.com/lorenzorapetti/dotfiles.git ~
+
 ###############################################################################
 # App config                                                                  #
 ###############################################################################

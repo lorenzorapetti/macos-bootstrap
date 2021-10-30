@@ -2,7 +2,7 @@
 
 This is a script to bootstrap a new Mac with everything i need. You can read the [`Brewfile`](./Brewfile) for the list of apps that it installs.
 
-It also clones [my dotfiles](https://github.com/lorenzorapetti/dotfiles)
+It also clones [my dotfiles](https://github.com/lorenzorapetti/dotfiles).
 
 ## Usage
 

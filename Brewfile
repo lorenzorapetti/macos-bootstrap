@@ -1,6 +1,7 @@
 tap "homebrew/cask"
 tap "homebrew/cask-fonts"
 
+brew "zsh"
 brew "antigen"
 brew "aws-iam-authenticator"
 brew "bat"
@@ -22,7 +23,6 @@ brew "watchman"
 brew "wifi-password"
 brew "yarn"
 brew "z"
-brew "zsh"
 
 cask "airtable"
 cask "bettertouchtool"
