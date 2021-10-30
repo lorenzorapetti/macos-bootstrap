@@ -69,4 +69,9 @@ mas "Magnet", id: 441258766
 mas "The Unarchiver", id: 425424353
 mas "WhatsApp", id: 1147396723
 mas "Telegram", id: 747648890
-mas "Termius", id: 1176074088
+mas "1Password for Safari", id: 1569813296
+mas "Save to Raindrop.io", id: 1549370672
+mas "PDF Expert", id: 1055273043
+mas "Lungo", id: 1263070803
+mas "Spark", id: 1176895641
+mas "Refined GitHub", id: 1519867270
