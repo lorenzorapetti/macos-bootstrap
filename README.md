@@ -11,3 +11,12 @@ In your shell
 ```sh
 curl -s https://raw.githubusercontent.com/lorenzorapetti/macos-bootstrap/main/bootstrap.sh | sh
 ```
+
+## Apps not included
+
+- Anki (Version 2.1.35) with the following Add-Ons:
+  - AnkiConnect
+  - AwesomeTTS
+  - Japanese Support
+  - Migaku Dictionary
+  - Migaku Japanese

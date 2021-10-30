@@ -62,6 +62,7 @@ cask "swiftformat-for-xcode"
 cask "temurin8"
 cask "transmission"
 cask "transmit"
+cask "via"
 cask "visual-studio-code"
 cask "vlc"
 

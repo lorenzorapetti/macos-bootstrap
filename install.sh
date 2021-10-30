@@ -106,4 +106,4 @@ for app in "Activity Monitor" \
 	killall "${app}" &> /dev/null
 done
 
-echo -e "\\n\\n\033[1m\033[1mFinished!\\n\\nOther apps to install:Now all you have to do is restart for the changes to take effect \033[0m✨"
+echo -e "\\n\\n\033[1m\033[1mFinished!\\nNow all you have to do is restart for the changes to take effect \033[0m✨"
